@@ -11,6 +11,7 @@ In Implicit type conversion, Python automatically converts one data type to anot
 
 Let's see an example where Python promotes the conversion of the lower data type (integer) to the higher data type (float) to avoid data loss.
 Example 1: Converting integer to float
+
 num_int = 123
 num_flo = 1.23
 
